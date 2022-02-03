@@ -1,6 +1,6 @@
 # News App
 
-This app user [News Api](https://newsapi.org/).
+This app use [News Api](https://newsapi.org/).
 - If you want to run this code, please use your own API_KEY [here](https://github.com/Brandon-RS/News-Flutter/blob/main/lib/src/services/news_services.dart#L11).
 
 ## Getting Started
